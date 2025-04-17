@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nguembu
+- 👋 Hi, I’m @jaures nguembu
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning new frameworks and technologies to enhance my skills.
 - 💞️ I’m looking to collaborate on projects that focus on creating impactful web applications and other.
