@@ -1,13 +1,36 @@
-- 👋 Hi, I’m @jaures nguembu
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning new frameworks and technologies to enhance my skills.
-- 💞️ I’m looking to collaborate on projects that focus on creating impactful web applications and other.
-- 📫 How to reach me : You can contact me via jauresnguembu@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love exploring new coding challenges and solving problems creatively!
-  
+👋 Hello, I'm Jaures Nguembu (John)
+💻 Full Stack Developer | Web Enthusiast | Problem Solver
 
-<!---
-nguembu/nguembu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Technologies & Skills:
+- Frontend: React, Vue.js, HTML5, CSS3, JavaScript/TypeScript
+- Backend: Node.js, Python (Django), Java
+- Databases: MySQL, MongoDB
+- DevOps: Git, Docker, CI/CD basics
+- Design: Responsive UI/UX principles
+
+🌱 Currently deepening my knowledge in:
+- Advanced React patterns
+- Microservices architecture
+- Cloud technologies (AWS, Azure)
+
+💡 Passionate about:
+- Building clean, efficient, and scalable web applications
+- Solving complex problems with elegant solutions
+- Continuous learning and tech community collaboration
+
+🤝 Open to collaborate on:
+- Innovative web projects
+- Open source contributions
+- Hackathons and coding challenges
+
+📫 How to reach me:
+- Email: jauresnguembu@gmail.com
+- LinkedIn: [Your LinkedIn Profile]
+- Twitter: @_Johnny_watson
+
+⚡ Fun facts:
+- When I'm not coding, I enjoy [your hobby]
+- I believe the best code is readable code
+- Always excited to learn from coffee chats!
+
+🚀 Check out my projects below ↓
