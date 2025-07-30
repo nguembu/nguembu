@@ -29,20 +29,6 @@
 
 ---
 
-## 📊 Tech Usage Overview
-
-Voici une représentation visuelle de l’usage des technologies dans mes projets :
-
-<img src="https://quickchart.io/chart?width=400&height=300&c={type:'pie',data:{labels:['Python','HTML','CSS','JavaScript','Vue.js','Node.js','Testing (Vitest+Pytest)','Jupyter'],datasets:[{data:[25,20,15,15,10,8,2,5],backgroundColor:['#3776AB','#E34F26','#1572B6','#F7DF1E','#4FC08D','#339933','#6E9F18','#D3D3D3']}]},options:{plugins:{datalabels:{formatter:(value)=>value<5?'':value+'%',color:'#fff',}}}}"/>
-
-> **Interprétation rapide**  
-> - Python domine (~ 25 %) car utilisé en backend & scripting  
-> - HTML + CSS (~ 35 % ensemble) pour l’interface  
-> - JavaScript et Vue.js (~ 25 % ensemble) côté client / logic flows  
-> - Node.js (~ 8 %) côté backend  
-> - Testing (~ 2 %) mais crucial pour la qualité  
-> - Jupyter à moins de **5 %**
-
 ---
 
 ## 💡 What I Enjoy
