@@ -77,8 +77,7 @@ Here are some repositories you can explore:
 | **bloodlink** | Blood donation coordination app | TypeScript |
 | **mamzy-color-kids** | Interactive kids coloring game | JavaScript |
 
-Visit my GitHub for more projects and demos. :contentReference[oaicite:0]{index=0}
-
+Visit my GitHub for more projects and demos. 
 ---
 
 ## 📫 Let’s Connect
@@ -86,7 +85,7 @@ Visit my GitHub for more projects and demos. :contentReference[oaicite:0]{index=
 **Email:** jauresnguembu@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/jaures-nguembu-040658335/  
 **Twitter:** https://twitter.com/_Johnny_watson  
-**Portfolio:** https://john-nguembu.netlify.app/ :contentReference[oaicite:1]{index=1}
+**Portfolio:** https://john-nguembu.netlify.app/ 
 
 ---
 
@@ -99,4 +98,4 @@ Visit my GitHub for more projects and demos. :contentReference[oaicite:0]{index=
 ---
 
 *Thanks for visiting my profile — feel free to explore my work and reach out if you want to build something great together!*
-::contentReference[oaicite:2]{index=2}
+
