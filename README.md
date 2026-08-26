@@ -8,7 +8,7 @@
 
 ## 👋 Hello, I'm Jaures Nguembu (aka John)
 
-<img align="right" src="https://komarev.com/ghpvc/?username=JOHN-WICK-001&label=Profile%20Views&color=2088FF&style=flat" alt="Profile views" />
+<img align="right" src="https://komarev.com/ghpvc/?username=nguembu&label=Profile%20Views&color=2088FF&style=flat" alt="Profile views" />
 
 **🎯 Research Focus:** Designing resilient, observable, and scalable distributed systems. My work bridges the gap between academic rigor (Master 2 Research) and industrial-grade delivery.
 
@@ -61,7 +61,7 @@
 
 > **Event-Driven Microservices Architecture** — My Master 2 Research Implementation
 
-[![NJILA](https://img.shields.io/badge/📦_NJILA-Microservices_Architecture-2088FF?style=for-the-badge)](https://github.com/JOHN-WICK-001/njila)
+[![NJILA](https://img.shields.io/badge/📦_NJILA-Microservices_Architecture-2088FF?style=for-the-badge)](https://github.com/nguembu/njila)
 
 **NJILA** is a distributed platform for booking and fleet management, designed with:
 - ✅ **Event-Driven** communication via RabbitMQ
@@ -75,14 +75,14 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JOHN-WICK-001&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOHN-WICK-001&theme=radical" alt="Streak Stats" width="48%" />
-</p>
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nguembu&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguembu&layout=compact&theme=tokyonight&langs_count=6"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOHN-WICK-001&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="40%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguembu&theme=tokyonight"/>
+</div>
 
 ---
 
@@ -96,7 +96,7 @@ My research focuses on:
 - **Observability** & Distributed Tracing
 - **Domain-Driven Design (DDD)** in practice
 
-📄 Check my [Research Repository](https://github.com/JOHN-WICK-001/master-thesis-distributed-systems) for papers, benchmarks, and experimentations.
+📄 Check my [Research Repository](https://github.com/nguembu/master-thesis-distributed-systems) for papers, benchmarks, and experimentations.
 
 ---
 
@@ -147,7 +147,7 @@ My research focuses on:
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
