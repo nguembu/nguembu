@@ -59,7 +59,7 @@
 
 ## 🚀 Featured Project: NJILA
 
-> **Event-Driven Microservices Architecture** — My Master 2 Research Implementation
+> **Event-Driven Microservices Architecture** 
 
 [![NJILA](https://img.shields.io/badge/📦_NJILA-Microservices_Architecture-2088FF?style=for-the-badge)](https://github.com/nguembu/njila)
 
