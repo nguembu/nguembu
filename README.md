@@ -3,7 +3,7 @@
 ═══════════════════════════════════════════════════════════════ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=2088FF&center=true&vCenter=true&random=false&width=720&lines=Jaures+NGUEMBU+%E2%80%94+Software+Architect;Distributed+Systems+%26+Microservices;Predictive+Change+Impact+Analysis+(M2+Research);Event-Driven+%26+Cloud-Native+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=2563EB&center=true&vCenter=true&random=false&width=720&lines=Jaures+NGUEMBU+%E2%80%94+Software+Architect;Distributed+Systems+%26+Microservices;Predictive+Change+Impact+Analysis+(M2+Research);Event-Driven+%26+Cloud-Native+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -21,21 +21,21 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
   <a href="https://john-nguembu.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2088FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/nguembu?tab=followers">
-    <img src="https://img.shields.io/github/followers/nguembu?label=Followers&style=for-the-badge&color=2088FF&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/nguembu?label=Followers&style=for-the-badge&color=2563EB&logo=github" alt="Followers" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nguembu&label=Profile%20Views&color=2088FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nguembu&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     RESEARCH HIGHLIGHT — THÈME DE RECHERCHE
+     RESEARCH HIGHLIGHT
 ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🔬 Research Focus</h2>
@@ -51,15 +51,17 @@
 <br/>
 
 > **Master 2 Research — Software Engineering**
+> **Université de Yaoundé I · Faculté des Sciences**
+> **Directeur : Pr OLLÉ OLLÉ Daniel Claude Delort**
 >
 > Designing a predictive framework to anticipate the ripple effects of architectural changes in evolving microservice ecosystems — combining static analysis, runtime observability, and machine learning to reduce regression risk and support informed refactoring decisions.
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Domain-Distributed_Systems-2088FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Domain-Distributed_Systems-2563EB?style=flat-square" />
   <img src="https://img.shields.io/badge/Topic-Change_Impact_Analysis-6DB33F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Method-Predictive_Modeling-FF6600?style=flat-square" />
+  <img src="https://img.shields.io/badge/Method-PCIA_%2F_PCIS-F59E0B?style=flat-square" />
   <img src="https://img.shields.io/badge/Scope-Microservices-326CE5?style=flat-square" />
   <img src="https://img.shields.io/badge/Level-Master_2_Research-9C27B0?style=flat-square" />
 </p>
@@ -70,7 +72,7 @@
 
 <p align="center">
   <a href="https://github.com/nguembu/master-thesis-distributed-systems">
-    <img src="https://img.shields.io/badge/📄_Research_Repository-Explore_papers_%26_benchmarks-2088FF?style=for-the-badge" alt="Research Repository" />
+    <img src="https://img.shields.io/badge/📄_Research_Repository-Explore_papers_%26_benchmarks-2563EB?style=for-the-badge" alt="Research Repository" />
   </a>
 </p>
 
@@ -86,7 +88,9 @@
 name:        Jaures NGUEMBU (aka John)
 role:        Software Architect & Fullstack Engineer
 focus:       Distributed Systems · Microservices · DDD · Event-Driven
-research:    M2 — Predictive Change Impact Analysis for Microservices
+research:    M2 — Predictive Change Impact Analysis (PCIA/PCIS)
+institution: Université de Yaoundé I — Faculté des Sciences
+supervisor:  Pr OLLÉ OLLÉ Daniel Claude Delort
 location:    Yaoundé, Cameroon 🇨🇲
 philosophy:  Clean code · Automated tests · Observable systems
 open_to:     Research collaborations · Open Source · Architecture consulting
@@ -158,7 +162,7 @@ My current research tackles a fundamental question in modern software engineerin
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2563EB?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
 ### 🔬 Research & Observability
@@ -167,6 +171,8 @@ My current research tackles a fundamental question in modern software engineerin
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyDriller-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 </p>
 
 ### 🛠️ Tools
@@ -198,7 +204,7 @@ My current research tackles a fundamental question in modern software engineerin
 > A distributed booking & fleet management platform designed as a **showcase of microservice architecture principles**.
 
 <p>
-  <img src="https://img.shields.io/badge/Microservices-10_services-2088FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microservices-10_services-2563EB?style=flat-square" />
   <img src="https://img.shields.io/badge/Communication-Event--Driven-FF6600?style=flat-square" />
   <img src="https://img.shields.io/badge/Persistence-Polyglot_(SQL_+_NoSQL)-47A248?style=flat-square" />
   <img src="https://img.shields.io/badge/Deployment-Docker_+_Kubernetes-2496ED?style=flat-square" />
@@ -215,7 +221,7 @@ My current research tackles a fundamental question in modern software engineerin
 
 <p>
   <a href="https://github.com/nguembu/njila">
-    <img src="https://img.shields.io/badge/📦_Explore_NJILA_on_GitHub-2088FF?style=for-the-badge&logo=github" alt="NJILA Repo" />
+    <img src="https://img.shields.io/badge/📦_Explore_NJILA_on_GitHub-2563EB?style=for-the-badge&logo=github" alt="NJILA Repo" />
   </a>
 </p>
 
@@ -226,27 +232,64 @@ My current research tackles a fundamental question in modern software engineerin
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     GITHUB ANALYTICS
+     GITHUB ANALYTICS — VERSION CORRIGÉE
 ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nguembu&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguembu&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" />
-</div>
+### 🏆 Statistiques principales
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguembu&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nguembu&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true&rank_icon=github&border_radius=12" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguembu&layout=compact&theme=tokyonight&langs_count=8&hide=html,css&border_radius=12" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguembu&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</div>
+### 🔥 Série de contributions (streak)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nguembu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=nguembu&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
+
+### 📈 Graphe d'activité
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguembu&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=1a1b27&color=2563EB&line=2563EB&point=F59E0B&title_color=2563EB" alt="Contribution Graph" />
+</div>
+
+### 🏅 Trophées
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nguembu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6&row=1" alt="GitHub Trophies" />
+</div>
+
+### 🐍 Animation Snake (bonus)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nguembu/nguembu/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+### 📋 Badges de secours (toujours visibles)
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/github/followers/nguembu?label=Followers&style=social" alt="Followers" /><br/>
+  <sub><b>Communauté</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/github/stars/nguembu?label=Total%20Stars&style=social" alt="Stars" /><br/>
+  <sub><b>Étoiles reçues</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/github/last-commit/nguembu/nguembu?label=Last%20Commit&style=social" alt="Last Commit" /><br/>
+  <sub><b>Dernier commit</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/M2-Research-2563EB?style=for-the-badge" alt="M2 Research" /><br/>
+  <sub><b>Chercheur M2</b></sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -260,22 +303,34 @@ My current research tackles a fundamental question in modern software engineerin
 <tr>
 <td width="60%" valign="top">
 
-### 🎓 Master 2 Research — Software Engineering
+### 🎓 Master 2 Research — Université de Yaoundé I
 
-**Thesis topic:**
+**Thesis topic (FR):**
+> *Conception d'une approche prédictive d'analyse d'impact des changements dans les architectures microservices évolutives*
+
+**Thesis topic (EN):**
 > *Design of a Predictive Change Impact Analysis Approach for Evolving Microservice Architectures*
 
+**Supervisor:** Pr OLLÉ OLLÉ Daniel Claude Delort
+**Institution:** Faculté des Sciences · Département d'Informatique
+**Center:** CRFD-STG (Centre de Recherche et de Formation Doctorale)
+**Academic Year:** 2026 – 2027
+
 **Research questions:**
-- How can we **statically and dynamically** model the dependency graph of a microservice ecosystem?
-- How can **runtime observability data** improve change impact prediction?
-- Which **machine learning models** best predict ripple effects from architectural changes?
-- How to integrate such predictions into a **CI/CD feedback loop**?
+- **RQ1** — Which factors are most relevant for impact prediction?
+- **RQ2** — Does evolution history improve accuracy over static dependencies alone?
+- **RQ3** — Under which conditions is the approach most effective?
+
+**Hypotheses:**
+- **H1** — Dependencies + history > static dependencies alone
+- **H2** — Co-evolution improves detection of indirectly affected components
+- **H3** — Change characteristics improve propagation prediction accuracy
 
 **Methodology:**
 - 📐 Static analysis of service contracts (OpenAPI, Protobuf)
 - 🔭 Runtime tracing with OpenTelemetry
-- 🤖 Predictive modeling (graph neural networks, gradient boosting)
-- 🧪 Empirical validation on open-source microservice benchmarks
+- 🤖 Predictive modeling (decision tree, random forest)
+- 🧪 Empirical validation via temporal simulation
 
 </td>
 <td width="40%" valign="top">
@@ -284,7 +339,7 @@ My current research tackles a fundamental question in modern software engineerin
 
 - 🏗️ Distributed Systems & Microservices
 - 🔮 Predictive Software Engineering
-- 🔄 Change Impact Analysis
+- 🔄 Change Impact Analysis (PCIA)
 - 📡 Eventual Consistency & Saga Patterns
 - 🧭 Domain-Driven Design (DDD)
 - 🔍 Observability & Distributed Tracing
@@ -293,7 +348,7 @@ My current research tackles a fundamental question in modern software engineerin
 
 <p>
   <a href="https://github.com/nguembu/master-thesis-distributed-systems">
-    <img src="https://img.shields.io/badge/📄_Thesis_Repository-2088FF?style=for-the-badge&logo=github" alt="Thesis Repo" />
+    <img src="https://img.shields.io/badge/📄_Thesis_Repository-2563EB?style=for-the-badge&logo=github" alt="Thesis Repo" />
   </a>
 </p>
 
@@ -315,7 +370,7 @@ My current research tackles a fundamental question in modern software engineerin
 
 ### 🔭 Building
 - **NJILA** — Microservices showcase platform
-- **Predictive CI** — Change impact prediction tooling for microservices
+- **PCIA Framework** — Change impact prediction tooling
 - **Observability stack** — OpenTelemetry + Grafana + Jaeger reference setup
 
 </td>
@@ -323,7 +378,7 @@ My current research tackles a fundamental question in modern software engineerin
 
 ### 📚 Learning & Researching
 - **Chaos Engineering** & resilience patterns
-- **Graph Neural Networks** for code/dependency analysis
+- **Machine Learning** for code/dependency analysis
 - **Production-grade Kubernetes** (operators, autoscaling, service mesh)
 - Writing my **Master's thesis** on predictive change impact analysis
 
@@ -379,7 +434,7 @@ My current research tackles a fundamental question in modern software engineerin
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
   <a href="https://john-nguembu.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2088FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/nguembu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -436,7 +491,7 @@ My current research tackles a fundamental question in modern software engineerin
 ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2088FF&height=100&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer" />
 </p>
 
 <p align="center">
