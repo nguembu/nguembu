@@ -253,13 +253,22 @@ My current research tackles a fundamental question in modern software engineerin
 ### 📈 Graphe d'activité
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguembu&bg_color=0a0e1a&color=2563eb&line=2563eb&point=f59e0b&area_color=2563eb&title_color=2563eb&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguembu&bg_color=0a0e1a&color=2563eb&line=2563eb&point=f59e0b&area_color=2563eb&title_color=2563eb&area=true&hide_border=true&custom_title=Contribution%20Graph&cache_seconds=86400" alt="Contribution Graph" />
 </div>
 
 ### 🏅 Trophées
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nguembu&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</div>
+
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Commits-Active-2563eb?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-Active-f59e0b?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contributions-Daily-06b6d4?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/M2-Research-9c27b0?style=for-the-badge" />
 </div>
 
 ### 🐍 Animation Snake
