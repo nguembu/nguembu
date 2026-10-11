@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nguembu&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile views" />
+  <img src="https://hits.sh/github.com/nguembu.svg?style=for-the-badge&label=Profile%20Views&color=2563eb" alt="Profile views" />
 </p>
 
 ---
@@ -232,7 +232,7 @@ My current research tackles a fundamental question in modern software engineerin
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     GITHUB ANALYTICS — VERSION CORRIGÉE
+     GITHUB ANALYTICS
 ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
@@ -240,48 +240,48 @@ My current research tackles a fundamental question in modern software engineerin
 ### 🏆 Statistiques principales
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nguembu&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true&rank_icon=github&border_radius=12" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguembu&layout=compact&theme=tokyonight&langs_count=8&hide=html,css&border_radius=12" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nguembu&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true&rank_icon=github&border_radius=12&bg_color=0a0e1a&title_color=2563eb&icon_color=f59e0b&text_color=e8ecf7&border_color=1a2238" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguembu&layout=compact&theme=tokyonight&langs_count=8&hide=html,css&border_radius=12&bg_color=0a0e1a&title_color=2563eb&text_color=e8ecf7&border_color=1a2238" alt="Top Languages" />
 </div>
 
-### 🔥 Série de contributions (streak)
+### 🔥 Série de contributions
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=nguembu&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nguembu&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D&background=0a0e1a&ring=2563eb&fire=f59e0b&currStreakLabel=2563eb" alt="GitHub Streak" />
 </div>
 
 ### 📈 Graphe d'activité
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguembu&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=1a1b27&color=2563EB&line=2563EB&point=F59E0B&title_color=2563EB" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguembu&bg_color=0a0e1a&color=2563eb&line=2563eb&point=f59e0b&area_color=2563eb&title_color=2563eb&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 ### 🏅 Trophées
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nguembu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nguembu&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
-### 🐍 Animation Snake (bonus)
+### 🐍 Animation Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/nguembu/nguembu/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-### 📋 Badges de secours (toujours visibles)
+### 📋 Badges de secours
 
 <table align="center">
 <tr>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/github/followers/nguembu?label=Followers&style=social" alt="Followers" /><br/>
+  <img src="https://img.shields.io/github/followers/nguembu?label=Followers&style=for-the-badge&color=2563eb&logo=github" alt="Followers" /><br/>
   <sub><b>Communauté</b></sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/github/stars/nguembu?label=Total%20Stars&style=social" alt="Stars" /><br/>
+  <img src="https://img.shields.io/github/stars/nguembu?label=Total%20Stars&style=for-the-badge&color=f59e0b&logo=github" alt="Stars" /><br/>
   <sub><b>Étoiles reçues</b></sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/github/last-commit/nguembu/nguembu?label=Last%20Commit&style=social" alt="Last Commit" /><br/>
+  <img src="https://img.shields.io/github/last-commit/nguembu/nguembu?label=Last%20Commit&style=for-the-badge&color=06b6d4&logo=github" alt="Last Commit" /><br/>
   <sub><b>Dernier commit</b></sub>
 </td>
 <td align="center" width="25%">
@@ -290,6 +290,8 @@ My current research tackles a fundamental question in modern software engineerin
 </td>
 </tr>
 </table>
+
+> 💡 **Astuce** : Si un widget ne s'affiche pas, ouvre-le dans un nouvel onglet — les services GitHub mettent parfois 5-10 secondes à générer l'image la première fois.
 
 ---
 
